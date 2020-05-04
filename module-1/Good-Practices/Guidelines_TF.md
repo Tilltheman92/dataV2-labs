@@ -8,6 +8,13 @@ LAYOUT:
 - State all variables or given values in the begining
 - Try to keep lines short for better overview
 
+APPROACH/METHOD:
+
+- If a problem comes up, try to use Pseudo-Code
+- Print intermediate steps to check, Afterwards delete the print
+- try to define Lists etc. before then use append
+
+
 COMMENTS:
 
 - Short/precise comments to outline what is done in the following code
