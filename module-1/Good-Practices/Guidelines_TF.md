@@ -10,6 +10,8 @@ LAYOUT:
 
 APPROACH/METHOD:
 
+- Make it work
+- Make it understandable
 - If a problem comes up, try to use Pseudo-Code
 - Print intermediate steps to check, Afterwards delete the print
 - try to define Lists etc. before then use append
@@ -17,6 +19,7 @@ APPROACH/METHOD:
 
 COMMENTS:
 
+- Whole sentences
 - Short/precise comments to outline what is done in the following code
 - Located in the line above the segment it refers to
 - Best to keep in 1 line
@@ -27,4 +30,5 @@ NAMING:
 
 - Use clear names indicating the actual variable/value
 - try to avoid single letters
+- Single letters only for mathematical variables
 - try short word or abbrevations
